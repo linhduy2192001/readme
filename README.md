@@ -1,5 +1,5 @@
 
-<div height="250px">
+<div height="250">
   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60" width="100%" height="100%" object-fit="cover">
 </div>
 <h1 align="center">Hi 👋, I'm Duy</h1>
