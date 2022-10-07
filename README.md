@@ -1,3 +1,5 @@
+
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60">
 <h1 align="center">Hi 👋, I'm Duy</h1>
 <h3 align="center">I really enjoy learning languages and frameworks like React, making website</h3>
 
